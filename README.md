@@ -1,4 +1,4 @@
-[![build status](https://github.com/asottile/all-repos/actions/workflows/main.yml/badge.svg)](https://github.com/asottile/all-repos/actions/workflows/main.yml)
+ [![build status](https://github.com/asottile/all-repos/actions/workflows/main.yml/badge.svg)](https://github.com/asottile/all-repos/actions/workflows/main.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/asottile/all-repos/main.svg)](https://results.pre-commit.ci/latest/github/asottile/all-repos/main)
 
 all-repos
